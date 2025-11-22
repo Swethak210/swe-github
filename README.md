@@ -16,12 +16,6 @@ This project demonstrates DOM manipulation, event handling, and persistent stora
 
 ---
 
-## 📸 Demo
-[Live Demo Link](https://yourusername.github.io/todo-list-app/)  
-*(Replace with your GitHub Pages / Netlify / Vercel link)*
-
----
-
 ## 🛠️ Technologies Used
 - **HTML5** – structure
 - **CSS3** – styling and layout
@@ -33,4 +27,4 @@ This project demonstrates DOM manipulation, event handling, and persistent stora
 ## 📂 Project Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Swethak210/todo-app.git
